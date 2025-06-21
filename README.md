@@ -4,7 +4,7 @@
 
 
 
-![Dimm-2007](./github-header-image.png)
+![Dimm-2007](./banner.png)
 
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
