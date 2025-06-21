@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Dimas Wijaya
+# 👋 Hi there, I'm Dimas Wijaya
 A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia 🇮🇩
 
 ![Dimas-2007](./github-header-image.png)
@@ -31,7 +31,7 @@ Cyber Security
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Nmap-3980D7?style=for-the-badge&logo=nmap&logoColor=white" style="margin-right:10px;" />
-  <img src="https://img.shields.io/badge/JohnTheRipper-black?style=for-the-badge&logo=hack-the-box&logoColor=white" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-E63946?style=for-the-badge&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Metasploit-202020?style=for-the-badge&logo=metasploit&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/HashCat-964B00?style=for-the-badge&logo=gnupg&logoColor=white" style="margin-right:10px;" />
 </p>
