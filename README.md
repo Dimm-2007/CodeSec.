@@ -7,10 +7,7 @@
 ![Dimas-2007](./github-header-image.png)
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
-- 🌱 I’m currently learning: `Backend Development 
-Front-End Development 
-Cyber Security 
-
+- 🌱 I’m currently learning: `Back-End Development, Front-End Development, Cyber security`
 - 👯 I’m looking to collaborate on: `Open-source projects and industrial Project`
 - 💬 Ask me about: `Linux`, `Web Dev`, `CyberSec`, `About Tech`
 - 📫 How to reach me: `dimaswijay2345@example.com`
