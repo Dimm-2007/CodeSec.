@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-## CODESEC.
+<h1>CODESEC.</h1>
 </p>
 
 <p align="center">
