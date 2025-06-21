@@ -17,6 +17,7 @@
 - ⚡ Fun fact: As a self-taught developer, I thrive at the intersection of frontend design, backend logic, system customization, and cyber security. I enjoy crafting user interfaces, building scalable backend solutions, optimizing Linux for performance, and understanding how systems can be secured — and exploited. I believe that mastering both creation and protection is key to becoming a well-rounded developer.
 
 ## WEB DEVELOPER !
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <p align=left>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:10px;" />
