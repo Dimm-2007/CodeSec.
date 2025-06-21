@@ -17,14 +17,24 @@ Cyber Security
 
 ## Web Developer!
 <p align=left>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-right:10px;"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right:10px;"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-right:10px;"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="margin-right:10px;" />
 </p>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+## Cyber Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Nmap-3980D7?style=for-the-badge&logo=nmap&logoColor=white" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/JohnTheRipper-black?style=for-the-badge&logo=hack-the-box&logoColor=white" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Metasploit-202020?style=for-the-badge&logo=metasploit&logoColor=white" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/HashCat-964B00?style=for-the-badge&logo=gnupg&logoColor=white" style="margin-right:10px;" />
+</p>
 
 
 
