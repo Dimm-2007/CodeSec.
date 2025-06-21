@@ -29,6 +29,14 @@
 
 ## CYBER SECURITY !
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/john-the-ripper.png" width="40" alt="JTR"/>
+  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/nmap.png" width="40" alt="Nmap"/>
+  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/metasploit.png" width="40" alt="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/hashcat.png" width="40" alt="Hashcat"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" width="40" alt="Kali"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" style="margin-right:10px;" />
