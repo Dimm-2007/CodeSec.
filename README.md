@@ -4,7 +4,7 @@
 
 
 
-![Dimm-2007](./fix.png)
+![Dimm-2007](./done.png)
 
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
