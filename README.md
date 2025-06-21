@@ -4,7 +4,8 @@
 
 
 
-![Dimas-2007](./github-header-image.png)
+![My Banner](./github-header-image.png)
+
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
 - 🌱 I’m currently learning: `Back-End Development, Front-End Development, Cyber security`
