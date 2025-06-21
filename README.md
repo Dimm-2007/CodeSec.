@@ -39,10 +39,11 @@
   <img src="https://img.shields.io/badge/HashCat-964B00?style=for-the-badge&logo=gnupg&logoColor=white" style="margin-right:10px;" />
 </p>
 
+<p align="center">
+## CODESEC.
+</p>
 
-
-
-
+<p align="center">
 ### 💻🔒 Where the **Code** meets **Security**
-
+</p>
 
