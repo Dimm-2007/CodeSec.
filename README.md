@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dimas Wijaya
 A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia 🇮🇩
 
-<img src="./codesec-banner.png" alt="CODESEC Terminal Banner" />
+
 
 
 ![Dimas-2007](./github-header-image.png)
