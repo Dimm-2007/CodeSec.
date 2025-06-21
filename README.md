@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Dimas Wijaya
 A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia 🇮🇩
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=48B9C7&lines=Hi+there!+I'm+Dimas+Wijaya;Backend+%26+Cyber+Security+Learner;Exploring+Linux+and+Web+Dev;Code+where+it+meets+Security!&center=true&size=24">
+</p>
+
 ![Dimas-2007](./github-header-image.png)
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
