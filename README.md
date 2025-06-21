@@ -17,7 +17,7 @@
 - ⚡ Fun fact: As a self-taught developer, I thrive at the intersection of frontend design, backend logic, system customization, and cyber security. I enjoy crafting user interfaces, building scalable backend solutions, optimizing Linux for performance, and understanding how systems can be secured — and exploited. I believe that mastering both creation and protection is key to becoming a well-rounded developer.
 
 ## WEB DEVELOPER !
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 <p align="center">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:10px;" />
@@ -28,14 +28,6 @@
 </p>
 
 ## CYBER SECURITY !
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/john-the-ripper.png" width="40" alt="JTR"/>
-  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/nmap.png" width="40" alt="Nmap"/>
-  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/metasploit.png" width="40" alt="Metasploit"/>
-  <img src="https://raw.githubusercontent.com/Dimm-2007/assets/main/icons/hashcat.png" width="40" alt="Hashcat"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" width="40" alt="Kali"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-right:10px;" />
