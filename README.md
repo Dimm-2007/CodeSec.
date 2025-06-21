@@ -4,10 +4,9 @@ A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia �
 ![Dimas-2007](./github-header-image.png)
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
-- 🌱 I’m currently learning: `Backend Development (Node.js, API, etc)
-Front-End Development (React.js, Tailwind Css, etc)
-Cyber Security (Pentesting, Reverse Engineering and 
-tools:John The Ripper,Nmap,MetaSploit,HashCat)`
+- 🌱 I’m currently learning: `Backend Development 
+Front-End Development 
+Cyber Security 
 
 - 👯 I’m looking to collaborate on: `Open-source projects and industrial Project`
 - 💬 Ask me about: `Linux`, `Web Dev`, `CyberSec`
