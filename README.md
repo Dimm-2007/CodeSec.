@@ -15,10 +15,10 @@
 
 
 - ⚡ Fun fact: As a self-taught developer, I thrive at the intersection of frontend design, backend logic, system customization, and cyber security. I enjoy crafting user interfaces, building scalable backend solutions, optimizing Linux for performance, and understanding how systems can be secured — and exploited. I believe that mastering both creation and protection is key to becoming a well-rounded developer.
-<p align="center">
+
 ## WEB DEVELOPER !
-</p>
-<p align="center">
+
+<p align="left">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-right:10px;"/>
@@ -27,11 +27,10 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="margin-right:10px;" />
 </p>
 
-<p align="center>
+
 ## CYBER SECURITY !
 
-</p>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Nmap-3980D7?style=for-the-badge&logo=nmap&logoColor=white" style="margin-right:10px;" />
@@ -44,6 +43,6 @@
 
 
 
-#### 💻🔒 Where the **Code** meets **Security**
+### 💻🔒 Where the **Code** meets **Security**
 
 
