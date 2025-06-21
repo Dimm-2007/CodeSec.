@@ -44,6 +44,6 @@
 </p>
 
 <p align="center">
-💻🔒 Where the **Code** meets **Security**
+💻🔒 Where the "CODE" meets "SECURITY"
 </p>
 
