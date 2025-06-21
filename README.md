@@ -42,6 +42,6 @@
 <h1 align="center">CODESEC.</h1>
 
 <p align="center">
-💻🔒 Where the "CODE" meets "SECURITY"
+💻 Where the "CODE" meets "SECURITY" 🔒
 </p>
 
