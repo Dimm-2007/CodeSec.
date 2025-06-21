@@ -18,7 +18,7 @@
 
 ## WEB DEVELOPER !
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-<p align=left>
+<p align="center">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-right:10px;"/>
@@ -29,7 +29,7 @@
 
 ## CYBER SECURITY !
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" style="margin-right:10px;" />
   <img src="https://img.shields.io/badge/Nmap-3980D7?style=for-the-badge&logo=nmap&logoColor=white" style="margin-right:10px;" />
