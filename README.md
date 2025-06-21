@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Dimas Wijaya
 A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia 🇮🇩
 
-[Dimas-2007](./github-header-image.png)
+![Dimas-2007](./github-header-image.png)
 
 - 🔭 I’m currently working on: `About Cyber Security and Web Developer`
 - 🌱 I’m currently learning: `Backend Development (Node.js, API, etc)
