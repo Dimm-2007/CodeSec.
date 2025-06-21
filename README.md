@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Dimas Wijaya
-###A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia 🇮🇩
+### A passionate **Web Developer** & **Cyber Security Enthusiast** from Indonesia 🇮🇩
 
 
 
