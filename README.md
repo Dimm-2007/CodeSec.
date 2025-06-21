@@ -16,12 +16,13 @@ Cyber Security
 - ⚡ Fun fact: As a self-taught developer, I thrive at the intersection of frontend design, backend logic, system customization, and cyber security. I enjoy crafting user interfaces, building scalable backend solutions, optimizing Linux for performance, and understanding how systems can be secured — and exploited. I believe that mastering both creation and protection is key to becoming a well-rounded developer.
 
 ## Web Developer!
+<p align=left>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-                                                                                                        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
+</p>
 #### 💻🔒 Where the **Code** meets **Security**
 
 
